@@ -1,1 +1,13 @@
-{}
+{
+  "user": {
+    "88552dab-4e30-4afd-86aa-8763fd5fe92e": {
+      "id": "88552dab-4e30-4afd-86aa-8763fd5fe92e",
+      "temp_secret": {
+        "ascii": ",tChwnR!^)5<2aO5HxKaa)0I:n7q,1sl",
+        "hex": "2c744368776e52215e29353c32614f3548784b61612930493a6e37712c31736c",
+        "base32": "FR2EG2DXNZJCCXRJGU6DEYKPGVEHQS3BMEUTASJ2NY3XCLBRONWA",
+        "otpauth_url": "otpauth://totp/SecretKey?secret=FR2EG2DXNZJCCXRJGU6DEYKPGVEHQS3BMEUTASJ2NY3XCLBRONWA"
+      }
+    }
+  }
+}
