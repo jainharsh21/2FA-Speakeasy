@@ -8,6 +8,15 @@
         "base32": "FR2EG2DXNZJCCXRJGU6DEYKPGVEHQS3BMEUTASJ2NY3XCLBRONWA",
         "otpauth_url": "otpauth://totp/SecretKey?secret=FR2EG2DXNZJCCXRJGU6DEYKPGVEHQS3BMEUTASJ2NY3XCLBRONWA"
       }
+    },
+    "15baf3b0-ac6f-4b07-8043-6b87149905ef": {
+      "id": "15baf3b0-ac6f-4b07-8043-6b87149905ef",
+      "secret": {
+        "ascii": ")F66/XbeBBwr3mc!N4N!uiJo.{J51CxH",
+        "hex": "294636362f58626542427772336d63214e344e2175694a6f2e7b4a3531437848",
+        "base32": "FFDDMNRPLBRGKQSCO5ZDG3LDEFHDITRBOVUUU3ZOPNFDKMKDPBEA",
+        "otpauth_url": "otpauth://totp/SecretKey?secret=FFDDMNRPLBRGKQSCO5ZDG3LDEFHDITRBOVUUU3ZOPNFDKMKDPBEA"
+      }
     }
   }
 }
